@@ -1,0 +1,8 @@
+prefix=/home/hakeem/course_ws/devel
+
+Name: x_pkg
+Description: Description of x_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
